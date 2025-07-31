@@ -1,9 +1,9 @@
 ---
-title: "Premier test 2"
-date: "2025-07-31"
-description: "ceci est un test"
-slug: "premier-test"
-cover: "/images/premier-test.jpg"
+title: "Test article avec image"
+date: "2025-07-30"
+description: "Un exemple pour vérifier le bon fonctionnement."
+image: "/images/article-test.jpg"
+slug: "article-image-test"
 ---
 
-Ceci est un article de test pour Trackdiggers.
+Contenu de l’article.
