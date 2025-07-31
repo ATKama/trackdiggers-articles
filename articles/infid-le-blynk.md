@@ -1,5 +1,5 @@
 ---
-title: 'Infidèle – BLYNK'
+title: 'Découvre "Infidèle" de BLYNK'
 date: '2025-07-31'
 description: 'Découvre la nouvelle pépite "Infidèle" de BLYNK, dans la catégorie Pop urbaine / R&B'
 image: 'https://storage.imagerouter.io/59574b9c-05b4-4c45-a558-3d39339c590f.png'
